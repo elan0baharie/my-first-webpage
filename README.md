@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{First Webpage Under Epicodus Program}, {3.14.17}_
+#### _First Webpage Under Epicodus Program, 3.14.17_
 
-#### By _**{Elan Baharie}**_
+#### By _**Elan Baharie**_
 
 ## Description
 
-_{First webpage with a few elements for practice.}_
+_First webpage with a few elements for practice._
 
 ## Setup/Installation Requirements
 
@@ -15,18 +15,18 @@ _{First webpage with a few elements for practice.}_
 
 ## Known Bugs
 
-_{None}_
+_None_
 
 ## Support and contact details
 
-_{0elan1@gmail.com}_
+_0elan1@gmail.com_
 
 ## Technologies Used
 
-_{HTML, Atom, and Terminal}_
+_HTML, Atom, and Terminal_
 
 ### License
 
-*{MIT license}*
+*MIT license*
 
 Copyright (c) 2016 **_{Elan B}_**
